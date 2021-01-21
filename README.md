@@ -8,3 +8,9 @@ B站学习地址：https://www.bilibili.com/video/BV1bE411T7oZ?p=1
 2.前台会员系统是基于SpringBoot+SpringCloud的微服务架构  
 # 代码介绍
 本项目由IDEA工具搭建完成。还原修改视频代码，使用IDEA能正常运行，同时为使用IDEA开发的朋友提供一个架构模型。
+
+#尚硅谷Java学科全套教程
+下载地址：https://pan.baidu.com/s/1Kg7UUpO3wwALX6x28cWA7A 
+提取码：8op3
+
+更多尚硅谷视频教程请访问：http://www.atguigu.com/download.shtml
